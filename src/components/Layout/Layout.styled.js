@@ -11,5 +11,5 @@ export const Title = styled.h1`
   margin-top: 30px;
   margin-bottom: 30px;
   font-size: 36px;
-  color: pink;
+  color: #000000;
 `;
